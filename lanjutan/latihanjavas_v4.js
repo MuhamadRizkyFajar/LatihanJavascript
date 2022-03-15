@@ -27,7 +27,7 @@
 // Array.prototype.filter();
 // Array.prototype.reduce();
 
-const angka = [-1, 8, 9, 1, 4, -5, -4, 3, 2, 9];
+// const angka = [-1, 8, 9, 1, 4, -5, -4, 3, 2, 9];
 // const newangka = [];
 // for (let index = 0; index < angka.length; index++) {
 //   if (angka[index] >= 3) {
@@ -47,9 +47,11 @@ const angka = [-1, 8, 9, 1, 4, -5, -4, 3, 2, 9];
 
 // console.log(newangka);
 
-const hasilcein = angka
-  .filter((a) => a > 5)
-  .map((a) => a * 3)
-  .reduce((acc, cur) => acc + cur);
+// const hasilcein = angka
+//   .filter((a) => a > 5)
+//   .map((a) => a * 3)
+//   .reduce((acc, cur) => acc + cur);
 
-console.log(hasilcein);
+// console.log(hasilcein);
+
+//////LATIHAN FILTER ,MAP, REDUCE------------------------------------------
